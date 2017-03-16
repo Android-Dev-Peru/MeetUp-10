@@ -13,7 +13,7 @@ Slide [https://docs.google.com/presentation/d/1o0GZAD-ArmSu82W5uimTwEAQlH8woQvhH
 
 Slide [https://docs.google.com/presentation/d/13pdnCAcKtyq0Mp78keaTXX3PEAtNWDwpOmJU_2OZGAs/edit?usp=sharing](https://docs.google.com/presentation/d/13pdnCAcKtyq0Mp78keaTXX3PEAtNWDwpOmJU_2OZGAs/edit?usp=sharing)
 
-##Grupo en Facebook [https://www.facebook.com/groups/androidpe/](https://www.facebook.com/groups/androidpe/)
+## Grupo en Facebook [https://www.facebook.com/groups/androidpe/](https://www.facebook.com/groups/androidpe/)
 
-##Meetup [https://www.meetup.com/es-ES/Android-Dev-Peru/](https://www.meetup.com/es-ES/Android-Dev-Peru/)
+## Meetup [https://www.meetup.com/es-ES/Android-Dev-Peru/](https://www.meetup.com/es-ES/Android-Dev-Peru/)
 
